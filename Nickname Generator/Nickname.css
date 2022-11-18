@@ -1,0 +1,30 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+    margin: 100px auto;
+    
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 50px;
+  }
+  
+  li {
+    margin: 15px;
+    font-size: 20px;
+  }
+  
+  #Random-nickname {
+   border-radius: 25px;
+   border: 2px solid;
+   width: 150px;
+   font-size: 15px;
+  }
+  
+  #All-nicknames {
+   border-radius: 25px;
+   border: 2px solid;
+   width: 150px;
+   font-size: 15.5px;
+  }
